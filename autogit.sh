@@ -1,7 +1,5 @@
 git add .
-git commit -m "Project concluded"
-git branch -M main
-git remote add origin git@github.com:CarlosViniMSouza/termux-test-app.git
+git commit -m "Add .py file"
 git push -u origin main
 git status
 
